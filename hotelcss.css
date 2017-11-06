@@ -10,7 +10,7 @@ body{
 }
 #roomOne{
   border-radius:25px;
-  background-color:green;
+  background-color:white;
   width:23%;
   float:left;
   margin:7.5px;
@@ -18,7 +18,7 @@ body{
 }
 #roomTwo{
   border-radius:25px;
-  background-color:red;
+  background-color:white;
   width:23%;
   float:left;
   margin:7.5px;
@@ -27,7 +27,7 @@ body{
 
 #roomThree{
   border-radius:25px;
-  background-color:blue;
+  background-color:white;
   width:23%;
   float:left;
   margin:7.5px;
@@ -35,7 +35,7 @@ body{
 }
 #roomFour{
   border-radius:25px;
-  background-color:yellow;
+  background-color:white;
   width:23%;
   float:left;
   margin:7.5px;
@@ -45,5 +45,18 @@ body{
 .hotel{
   text-align:center;
   font-style:italic;
-  color:silver;
+  color:black;
+}
+
+button{
+  border:0px;
+  
+}
+input{
+  
+  background:rgba(175, 175, 175, 0.6);
+  border:0px;
+}
+select{
+  border:0px;
 }
